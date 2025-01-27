@@ -1,4 +1,4 @@
-('D:\\parser_expert\\build\\parser\\PYZ-00.pyz',
+('C:\\Users\\fazyl\\OneDrive\\Документы\\GitHub\\Python-Parser-OS\\build\\parser\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\fazyl\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
